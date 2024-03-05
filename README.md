@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Raquel-M-Maia/Raquel-M-Maia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # About Me:
 <br>🧪 I'm a Chemical Engineering student<br>🌱 I'm learning about python<br>💼 I'm currently working on Pavei Brands<br>🗯️ Ask me about Power BI<br><br>
 
