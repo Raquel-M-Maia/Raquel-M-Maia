@@ -1,6 +1,6 @@
 ## Hello there i'm Raquel!
 
-<br>🧪 I'm a Chemical Engineering student<br>🌱 I'm learning about python<br>💼 I'm currently working on Pavei Brands<br>🗯️ Ask me about Power BI<br><br>
+<br>🧪 I'm a Chemical Engineering student<br>🌱 I'm learning about python<br>💼 I'm currently working as a Data Analyst<br>🗯️ Ask me about Power BI<br><br>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Raki-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
