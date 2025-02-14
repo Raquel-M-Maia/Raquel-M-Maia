@@ -38,7 +38,7 @@ Data Analyst, Chemical Engeneering student and beginer front-end dev.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Languages
 
 <img 
     align="center" 
